@@ -14,7 +14,7 @@ for i in range(1, a1+1):                                                        
 print("System has been hacked!!!!! Check your current directory")
 
 #This code can make 1000 new folders in the victim's directory .
-#N:B - DO NOT RUN THIS CODE IN YOUR COMPUTER!
+#N:B - YOU MUST HAVE TO CAREFUL TO RUN THIS CODE IN YOUR COMPUTER!!!
     #JUST MAKE AN exe FILE AND SEND  IT TO YOUR FRIEND AND ENJOY!
 import os
 for i in range(1, 1001):

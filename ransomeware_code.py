@@ -1,4 +1,4 @@
-#******************************Creating an automatic directory(newfolder) creator ransomeware !!***********************************************
+#******************************Creating an automatic directory(newfolder) creator ransomeware !!*********************************************
 
 # 1. import os and after that I will take an input from the user.
 # 2. I''ll create a loop .
